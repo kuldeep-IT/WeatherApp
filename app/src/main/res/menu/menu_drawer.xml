@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Mobile Number"
+        android:id="@+id/mNumberMenu"
+        android:icon="@drawable/phone"/>
+
+    <item
+        android:title="Hisotry"
+        android:id="@+id/historyMenu"
+        android:icon="@drawable/history"/>
+
+
+    <item
+        android:title="Log Out"
+        android:id="@+id/logoutMenu"
+        android:icon="@drawable/logout"/>
+
+
+</menu>

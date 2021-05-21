@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "375137059662",
+    "project_id": "indianic-b5893",
+    "storage_bucket": "indianic-b5893.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375137059662:android:a814aaaa23aef975ad541f",
+        "android_client_info": {
+          "package_name": "com.kuldeepsocialmedia.indianic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375137059662-iq9be21tqq9cu880j1it8ipcdjkcfca7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kuldeepsocialmedia.indianic",
+            "certificate_hash": "77f7bbade15bcc22422ae4f2bacf3b4c20409f6d"
+          }
+        },
+        {
+          "client_id": "375137059662-lbparufsliodp89m0ig5ubgd0c5n07vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8C-0WtbntrX-ASd2hyOESDeduoN4lEyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375137059662-lbparufsliodp89m0ig5ubgd0c5n07vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
